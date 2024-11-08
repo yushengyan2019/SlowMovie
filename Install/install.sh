@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-GIT_REPO=https://ghp.ci/https://github.com/TomWhitwell/SlowMovie
+GIT_REPO=https://ghp.ci/https://github.com/yushengyan2019/SlowMovie
 GIT_BRANCH=main
 SKIP_DEPS=false
 
